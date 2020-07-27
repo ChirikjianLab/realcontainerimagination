@@ -19,7 +19,7 @@ Open containers, i.e., containers without covers, are an important and ubiquitou
 
 ### 6. Wooden Bowl
 
-### 7. Weaven Basket
+### 7. Basket
 
 ### 8. Ash Tray
 
