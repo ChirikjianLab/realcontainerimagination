@@ -1,4 +1,5 @@
 ---
+youtubeIdc1: F-wq5HNJydg
 youtubeId1: mfr69KGa_W0
 youtubeId2: blZZeJ2g-90
 ---
@@ -9,7 +10,8 @@ Open containers, i.e., containers without covers, are an important and ubiquitou
 # Open Containability Imagination Demo
 
 ### 1. Gravy Boat
- 
+
+{% include youtubePlayer.html id=page.youtubeIdc1 %}
 
 # Autonomous Pouring Demo
 
