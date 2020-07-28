@@ -11,17 +11,20 @@ Open containers, i.e., containers without covers, are an important and ubiquitou
 
 ### 1. Gravy Boat
 
-{% include youtubePlayer.html id=page.youtubeIdc1 %}
+<!-- {% include youtubePlayer.html id=page.youtubeIdc1 %} -->
+<iframe width="800" height="450" src="https://www.youtube.com/embed/F-wq5HNJydg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 # Autonomous Pouring Demo
 
 ### 1. Candlestick (Detailed with explanations)
 
-{% include youtubePlayer.html id=page.youtubeId1 %}
+<!-- {% include youtubePlayer.html id=page.youtubeId1 %} -->
+<iframe width="800" height="450" src="https://www.youtube.com/embed/mfr69KGa_W0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### 2. Mug
 
-{% include youtubePlayer.html id=page.youtubeId2 %}
+<!-- {% include youtubePlayer.html id=page.youtubeId2 %} -->
+<iframe width="800" height="450" src="https://www.youtube.com/embed/blZZeJ2g-90" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### 3. Gravy Boat
 
