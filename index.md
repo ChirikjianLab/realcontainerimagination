@@ -7,7 +7,7 @@
 The simulation videos are outputed from the Pybullet visualization. The time for the simulation is in terms of the video duration, i.e., 8x means video playing in 8x speed. The reported duration for open containability imagination in the paper is evaluated without visualization.
 
 ### 1. Plate (Detailed with explanations)
-### Labeled as an open container
+#### Labeled as an open container
 
 ### 2. Gravy Boat 
 #### Labeled as an open container
