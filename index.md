@@ -20,7 +20,7 @@ The simulation videos are outputed from the Pybullet visualization. The time for
 <iframe width="800" height="450" src="https://www.youtube.com/embed/zGaItrrFKts" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### 4. Cup
-### Labeled as open container
+#### Labeled as open container
 
 ### 5. Spoon (Failure case)
 #### Labeled as non-open container
