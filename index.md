@@ -19,6 +19,13 @@ The simulation videos are outputed from the Pybullet visualization. The time for
 #### Labeled as non-open container
 <iframe width="800" height="450" src="https://www.youtube.com/embed/zGaItrrFKts" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+### 4. Cup
+### Labeled as open container
+
+### 5. Spoon (Failure case)
+#### Labeled as non-open container
+
+
 # Autonomous Pouring Demo
 
 The simulation videos are outputed from the Pybullet visualization. The time for the simulation is in terms of the video duration, i.e., 8x means video playing in 8x speed. The reported duration for open containability imagination and pouring imagination in the paper is evaluated without visualization.
