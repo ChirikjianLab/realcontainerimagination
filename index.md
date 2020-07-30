@@ -6,7 +6,7 @@
 
 The simulation videos are outputed from the Pybullet visualization. The time for the simulation is in terms of the video duration, i.e., 8x means video playing in 8x speed. The reported duration for open containability imagination in the paper is evaluated without visualization.
 
-### 1. Plate (Detailed with explanations)
+### 1. Plate (Detailed with Explanations)
 #### Labeled as an open container
 
 ### 2. Gravy Boat 
@@ -27,7 +27,7 @@ The simulation videos are outputed from the Pybullet visualization. The time for
 ### 6. Alarm Clock
 #### Labeled as a non-open container
 
-### 7. Spoon (Failure case)
+### 7. Spoon (Failure Case)
 #### Labeled as a non-open container
 
 
@@ -35,7 +35,7 @@ The simulation videos are outputed from the Pybullet visualization. The time for
 
 The simulation videos are outputed from the Pybullet visualization. The time for the simulation is in terms of the video duration, i.e., 8x means video playing in 8x speed. The reported duration for open containability imagination and pouring imagination in the paper is evaluated without visualization.
 
-### 1. Candlestick (Detailed with explanations)
+### 1. Candlestick (Detailed with Explanations)
 <iframe width="800" height="450" src="https://www.youtube.com/embed/mfr69KGa_W0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### 2. Mug
@@ -59,4 +59,4 @@ The simulation videos are outputed from the Pybullet visualization. The time for
 
 ### 11. Chef Hat
 
-### 12. Cup
+### 12. Vase (Failure Case)
