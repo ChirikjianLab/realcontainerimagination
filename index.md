@@ -16,7 +16,7 @@ The simulation videos are outputted from the Pybullet visualization. 8x means th
 
 ### 2) Gravy Boat 
 #### Labeled as an open container
-<iframe width="800" height="450" src="https://www.youtube.com/embed/U5a4fG1ptfA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/U5a4fG1ptfA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### 3) Chef Hat
 #### Labeled as an open container
