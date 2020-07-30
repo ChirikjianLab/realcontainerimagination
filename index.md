@@ -37,6 +37,7 @@ The simulation videos are outputed from the Pybullet visualization. The time for
 
 
 ## Autonomous Pouring Demo
+All the objects tested for pouring are labeled as open container by the human annotator.
 
 ### 1. Candlestick (Detailed with Explanations)
 <iframe width="800" height="450" src="https://www.youtube.com/embed/mfr69KGa_W0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -50,16 +51,12 @@ The simulation videos are outputed from the Pybullet visualization. The time for
 
 ### 5. Origami Cup
 
-### 6. Wooden Bowl
+### 6. Bowl
 
-### 7. Basket
+### 7. Soap Dish
 
-### 8. Ash Tray
+### 8. Plate
 
-### 9. Soap Dish
+### 9. Chef Hat
 
-### 10. Plate
-
-### 11. Chef Hat
-
-### 12. Vase (Failure Case)
+### 10. Vase (Failure Case)
