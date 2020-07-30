@@ -3,11 +3,11 @@
 # Introductory Video
 
 # Supplementary Videos
-These videos are supplementary videos for RA-L (ICRA 2021) Submission.
+These following videos are supplementary videos for RA-L (ICRA 2021) Submission.
 
-Here we show the set of video demos for open container classifiation and autonomous pouring. The first video of each set is detailed with explanation.
+Here we show video demos for open container classifiation (Sec. I) and autonomous pouring (Sec. II). The first video of each section is detailed with explanation.
 
-The simulation videos are outputed from the Pybullet visualization. The time for the simulation is in terms of the video duration, i.e., 8x means video playing in 8x speed. The reported duration for open containability imagination and pouring imagination in the paper is evaluated without visualization.
+The simulation videos are outputted from the Pybullet visualization. 8x means that the simulation video is played at 8x speed. However, the duration of the simulation video is different from the reported duration for open containability imagination and pouring imagination in the paper. The reported durations in the paper is evaluated without visualization in Pybullet.
 
 ## Open Containability Imagination Demo
 
