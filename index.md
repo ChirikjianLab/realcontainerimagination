@@ -37,7 +37,7 @@ The simulation videos are outputted from the Pybullet visualization. 8x means th
 
 
 ## II) Autonomous Pouring Demo
-All the objects tested for pouring are labeled as open container by the human annotator.
+All the objects tested for pouring are labeled as open containers by the human annotator.
 
 ### 1) Candlestick (Detailed with Explanations)
 <iframe width="800" height="450" src="https://www.youtube.com/embed/mfr69KGa_W0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
