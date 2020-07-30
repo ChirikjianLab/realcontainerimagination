@@ -7,9 +7,9 @@ These videos are supplementary videos for RA-L (ICRA 2021) Submission.
 
 Here we show the set of video demos for open container classifiation and autonomous pouring. The first video of each set is detailed with explanation.
 
-## Open Containability Imagination Demo
+The simulation videos are outputed from the Pybullet visualization. The time for the simulation is in terms of the video duration, i.e., 8x means video playing in 8x speed. The reported duration for open containability imagination and pouring imagination in the paper is evaluated without visualization.
 
-The simulation videos are outputed from the Pybullet visualization. The time for the simulation is in terms of the video duration, i.e., 8x means video playing in 8x speed. The reported duration for open containability imagination in the paper is evaluated without visualization.
+## Open Containability Imagination Demo
 
 ### 1. Plate (Detailed with Explanations)
 #### Labeled as an open container
@@ -37,8 +37,6 @@ The simulation videos are outputed from the Pybullet visualization. The time for
 
 
 ## Autonomous Pouring Demo
-
-The simulation videos are outputed from the Pybullet visualization. The time for the simulation is in terms of the video duration, i.e., 8x means video playing in 8x speed. The reported duration for open containability imagination and pouring imagination in the paper is evaluated without visualization.
 
 ### 1. Candlestick (Detailed with Explanations)
 <iframe width="800" height="450" src="https://www.youtube.com/embed/mfr69KGa_W0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
