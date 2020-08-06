@@ -11,30 +11,23 @@ Videos will be available soon!
 ### 1) Plate (Detailed with Explanations)
 #### Labeled as an open container
 
-### 2) Gravy Boat 
+### 2) Chef Hat
 #### Labeled as an open container
 
-### 3) Chef Hat
+### 3) Cup
 #### Labeled as an open container
 
-### 4) Bowl
-#### Labeled as an open container
-
-### 5) Book
+### 4) Book
 #### Labeled as a non-open container
 
-### 6) Alarm Clock
+### 5) Spoon (Failure Case)
 #### Labeled as a non-open container
-
-### 7) Spoon (Failure Case)
-#### Labeled as a non-open container
+This object is labeled as a non-open container by 3 out of 5 human annotators. Thus, its ground truth label is a non-open container. However, our method classify it as an open container.
 
 
 ## II) Autonomous Pouring Demo
 
 ### 1) Candlestick (Detailed with Explanations)
-
-### 2) Mug
 
 ### 3) Gravy Boat
 
@@ -42,12 +35,6 @@ Videos will be available soon!
 
 ### 5) Origami Cup
 
-### 6) Bowl
+### 6) Chef Hat
 
-### 7) Soap Dish
-
-### 8) Plate
-
-### 9) Chef Hat
-
-### 10) Vase (Failure Case)
+### 7) Vase (Failure Case)
