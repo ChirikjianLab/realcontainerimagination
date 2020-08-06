@@ -9,9 +9,9 @@ Introductory video will be available soon!
 [Hongtao Wu](https://hongtaowu67.github.io), [Gregory Chirikjian](https://www.eng.nus.edu.sg/me/staff/chirikjian-gregory-s/)
 
 
-##### Laboratory for Computational Sensing and Robotics (LCSR), Johns Hopkins University
+Laboratory for Computational Sensing and Robotics (LCSR), Johns Hopkins University
 
-##### Department of Mechanical Engineering, National University of Singapore
+Department of Mechanical Engineering, National University of Singapore
 
 # Supplementary Videos
 The simulation videos are outputted by the Pybullet. Note that the runtimes for open containability imagination and pouring imagination reported in the video are evaluated without video visualization. 
