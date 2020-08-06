@@ -15,7 +15,10 @@ More videos will be available soon
 
 ## I) Open Containability Imagination Demo
 
-### 1) Book
+### 1) Plate (Detailed with Explanations)
+<iframe width="640" height="360" src="https://www.youtube.com/embed/5uwp5y1xEL0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+### 2) Book
 <iframe width="640" height="360" src="https://www.youtube.com/embed/oKLJqdkz328" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## II) Autonomous Pouring Demo
