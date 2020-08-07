@@ -8,7 +8,6 @@ Introductory video will be available soon!
 # Author
 [Hongtao Wu](https://hongtaowu67.github.io), [Gregory Chirikjian](https://www.eng.nus.edu.sg/me/staff/chirikjian-gregory-s/)
 
-
 Laboratory for Computational Sensing and Robotics (LCSR), Johns Hopkins University
 
 Department of Mechanical Engineering, National University of Singapore
