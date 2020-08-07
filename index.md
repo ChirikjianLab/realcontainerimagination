@@ -15,17 +15,20 @@ Department of Mechanical Engineering, National University of Singapore
 # Supplementary Videos
 The simulation videos are outputted by the Pybullet. Note that the runtimes for open containability imagination and pouring imagination reported in the video are evaluated without video visualization. 
 
-More videos will be available soon
+More videos will be available soon!
 
 ## I) Open Containability Imagination Demo
 
 ### 1) Plate (Detailed with Explanations)
+Labeled as an open container by the human annotator
 <iframe width="640" height="360" src="https://www.youtube.com/embed/5uwp5y1xEL0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### 2) Book
+Labeled as an open container by the human annotator
 <iframe width="640" height="360" src="https://www.youtube.com/embed/oKLJqdkz328" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## II) Autonomous Pouring Demo
+All the objects evaluated on the autonomous pouring are labeled as open containers by the human annotator.
 
 ### 1) Candlestick (Detailed with Explanations)
 <iframe width="640" height="360" src="https://www.youtube.com/embed/tAAX00pjsAI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
