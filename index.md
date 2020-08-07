@@ -26,7 +26,11 @@ More videos will be available soon!
 Labeled as an open container by the human annotator
 <iframe width="640" height="360" src="https://www.youtube.com/embed/5uwp5y1xEL0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-### 2) Book
+### 2) Chef Hat
+Labeled as an open container by the human annotator
+<iframe width="640" height="360" src="https://www.youtube.com/embed/JT91sXS0dvA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+### 3) Book
 Labeled as an open container by the human annotator
 <iframe width="640" height="360" src="https://www.youtube.com/embed/oKLJqdkz328" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
