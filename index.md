@@ -30,7 +30,7 @@ Labeled as an open container by the human annotator
 
 ### 2) Chef Hat
 Labeled as an open container by the human annotator
-<iframe width="640" height="360" src="https://www.youtube.com/embed/JT91sXS0dvA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/PREPo-lRp58" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### 3) Book
 Labeled as an open container by the human annotator
