@@ -16,7 +16,7 @@ Laboratory for Computational Sensing and Robotics (LCSR), Johns Hopkins Universi
 Department of Mechanical Engineering, National University of Singapore
 
 # Supplementary Videos
-We shows more demos on **open containability imagination** and **autonomous pouring**.
+In this section, we show more demos on **open containability imagination** and **autonomous pouring**.
 
 The simulation videos are outputted by the Pybullet. Note that the runtimes for open containability imagination and pouring imagination reported in the video are evaluated without video visualization. 
 
