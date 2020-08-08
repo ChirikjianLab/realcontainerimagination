@@ -26,7 +26,7 @@ More videos will be available soon!
 
 ### 1) Plate (Detailed with Explanations)
 Labeled as an open container by the human annotator
-<iframe width="640" height="360" src="https://www.youtube.com/embed/5uwp5y1xEL0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/E8EwN65H2VM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### 2) Chef Hat
 Labeled as an open container by the human annotator
