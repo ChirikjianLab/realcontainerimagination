@@ -32,8 +32,12 @@ Labeled as an open container by the human annotator
 Labeled as an open container by the human annotator
 <iframe width="640" height="360" src="https://www.youtube.com/embed/PREPo-lRp58" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-### 3) Book
+### 3) Cup
 Labeled as an open container by the human annotator
+<iframe width="640" height="360" src="https://www.youtube.com/embed/1SFRWyxcqKg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+### 4) Book
+Labeled as a non-open container by the human annotator
 <iframe width="640" height="360" src="https://www.youtube.com/embed/oKLJqdkz328" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## II) Autonomous Pouring Demo
