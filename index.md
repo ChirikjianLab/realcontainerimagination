@@ -38,7 +38,7 @@ Labeled as an open container by the human annotator
 
 ### 4) Book
 Labeled as a non-open container by the human annotator
-<iframe width="480" height="270" src="https://www.youtube.com/embed/oKLJqdkz328" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="480" height="270" src="https://www.youtube.com/embed/PDYG6T3-hOI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## II) Autonomous Pouring Demo
 All the objects evaluated on the autonomous pouring are labeled as open containers by the human annotator.
