@@ -46,3 +46,8 @@ All the objects evaluated on the autonomous pouring are labeled as open containe
 ### 1) Candlestick (Detailed with Explanations)
 <iframe width="640" height="360" src="https://www.youtube.com/embed/govo8w2uYVw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+### 2) Gravy Boat
+<iframe width="640" height="360" src="https://www.youtube.com/embed/eQX2o7H9B0E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+
