@@ -34,7 +34,7 @@ Labeled as an open container by the human annotator
 
 ### 3) Cup
 Labeled as an open container by the human annotator
-<iframe width="480" height="270" src="https://www.youtube.com/embed/1SFRWyxcqKg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="480" height="270" src="https://www.youtube.com/embed/NPiFdfATOw8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### 4) Book
 Labeled as a non-open container by the human annotator
