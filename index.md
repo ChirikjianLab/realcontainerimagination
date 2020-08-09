@@ -26,33 +26,33 @@ More videos will be available soon!
 
 ### 1) Plate (Detailed with Explanations)
 Labeled as an open container by the human annotator
-<iframe width="640" height="360" src="https://www.youtube.com/embed/E8EwN65H2VM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="480" height="270" src="https://www.youtube.com/embed/E8EwN65H2VM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### 2) Chef Hat
 Labeled as an open container by the human annotator
-<iframe width="640" height="360" src="https://www.youtube.com/embed/PREPo-lRp58" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="480" height="270" src="https://www.youtube.com/embed/PREPo-lRp58" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### 3) Cup
 Labeled as an open container by the human annotator
-<iframe width="640" height="360" src="https://www.youtube.com/embed/1SFRWyxcqKg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="480" height="270" src="https://www.youtube.com/embed/1SFRWyxcqKg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### 4) Book
 Labeled as a non-open container by the human annotator
-<iframe width="640" height="360" src="https://www.youtube.com/embed/oKLJqdkz328" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="480" height="270" src="https://www.youtube.com/embed/oKLJqdkz328" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## II) Autonomous Pouring Demo
 All the objects evaluated on the autonomous pouring are labeled as open containers by the human annotator.
 
 ### 1) Candlestick (Detailed with Explanations)
-<iframe width="640" height="360" src="https://www.youtube.com/embed/govo8w2uYVw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="480" height="270" src="https://www.youtube.com/embed/govo8w2uYVw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### 2) Gravy Boat
-<iframe width="640" height="360" src="https://www.youtube.com/embed/eQX2o7H9B0E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="480" height="270" src="https://www.youtube.com/embed/eQX2o7H9B0E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### 3) Baking Cup
-<iframe width="640" height="360" src="https://www.youtube.com/embed/ytmPhnVwCro" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="480" height="270" src="https://www.youtube.com/embed/ytmPhnVwCro" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### 4) Origami Cup
-<iframe width="640" height="360" src="https://www.youtube.com/embed/LcM-r7Dwl0M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="480" height="270" src="https://www.youtube.com/embed/LcM-r7Dwl0M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
