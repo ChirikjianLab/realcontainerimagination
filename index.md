@@ -30,7 +30,7 @@ Labeled as an open container by the human annotator
 
 ### 2) Chef Hat
 Labeled as an open container by the human annotator
-<iframe width="480" height="270" src="https://www.youtube.com/embed/PREPo-lRp58" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="480" height="270" src="https://www.youtube.com/embed/LI3GV1X92Is" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### 3) Cup
 Labeled as an open container by the human annotator
