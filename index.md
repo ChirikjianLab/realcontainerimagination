@@ -52,5 +52,7 @@ All the objects evaluated on the autonomous pouring are labeled as open containe
 ### 3) Baking Cup
 <iframe width="640" height="360" src="https://www.youtube.com/embed/ytmPhnVwCro" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+### 4) Origami Cup
+<iframe width="640" height="360" src="https://www.youtube.com/embed/LcM-r7Dwl0M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
