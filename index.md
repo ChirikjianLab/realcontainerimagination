@@ -55,4 +55,5 @@ All the objects evaluated on the autonomous pouring are labeled as open containe
 ### 4) Origami Cup
 <iframe width="480" height="270" src="https://www.youtube.com/embed/LcM-r7Dwl0M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-
+### 5) Chef Hat
+<iframe width="480" height="270" src="https://www.youtube.com/embed/-dTs2MFATpg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
