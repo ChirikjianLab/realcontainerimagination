@@ -6,7 +6,7 @@ Open containers, i.e., containers without covers, are an important and ubiquitou
 Paper: [arxiv](https://arxiv.org/abs/2008.02321)
 
 # Introductory Video
-Introductory video will be available soon!
+<iframe width="640" height="360" src="https://www.youtube.com/embed/n6dGRaLTv88" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 # Author
 [Hongtao Wu](https://hongtaowu67.github.io), [Gregory Chirikjian](https://www.eng.nus.edu.sg/me/staff/chirikjian-gregory-s/)
