@@ -20,8 +20,6 @@ In this section, we show more demos on **open containability imagination** and *
 
 The simulation videos are outputted by the Pybullet. Note that the runtimes for open containability imagination and pouring imagination reported in the video are evaluated without video visualization. 
 
-More videos will be available soon!
-
 ## I) Open Containability Imagination Demo
 
 ### 1) Plate (Detailed with Explanations)
